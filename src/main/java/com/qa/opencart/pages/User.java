@@ -1,8 +1,7 @@
 package com.qa.opencart.pages;
 
 public class User {
-<<<<<<< HEAD
-=======
+
 	
 	public void m1() {
 	double d=12.33;
@@ -10,7 +9,11 @@ public class User {
     
 		
 	}
+	
+	public int m2() {
+		String p="selenium";
+		return 123;
+	}
 
->>>>>>> 5b8f6a721bcb89ac07712c1b61ba60a330edd790
 
 }
